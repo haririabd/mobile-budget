@@ -1,4 +1,4 @@
-# Django Project Template
+# Budget App (Mobile)
 
 This repository provides a basic, well-structured template for starting new Django projects. It includes common configurations and best practices to streamline your development workflow.
 
